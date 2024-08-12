@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>팀장이 추가한 파일</title>
+<title>팀장이 추가한 파일</title>
 </head>
 <body>
 
