@@ -3,14 +3,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>프로젝트 생성</title>
+<title>팀원 추가</title>
 </head>
 <body>
-	#1  프로젝트 생성 <br />
-<<<<<<< HEAD
-	#2_1 팀장 작업 <br />
-=======
-	#2_2 팀원 수정
->>>>>>> refs/heads/master_local
+	#3_2 팀원 추가
 </body>
 </html>
