@@ -14,11 +14,5 @@
 	#2_2 팀원 수정
 >>>>>>> refs/heads/master_local
 
-<<<<<<< HEAD
-	#2_1 팀장 작업 <br />
-=======
-	#2_2 팀원 수정
->>>>>>> refs/heads/master_local
-	#5_1 팀원 추가
 </body>
 </html>
