@@ -3,10 +3,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>프로젝트 생성</title>
+<title>팀원 추가</title>
 </head>
 <body>
-	#1  프로젝트 생성 <br />
-	#2_2 팀원 수정
+	#3_2 팀원 추가
 </body>
 </html>
