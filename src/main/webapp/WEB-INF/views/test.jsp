@@ -12,9 +12,27 @@
 	#2_1 팀장 작업 <br />
 =======
 	#2_2 팀원 수정
+<<<<<<< HEAD
 >>>>>>> refs/heads/master_local
 =======
 	#2_2 팀원 수정
 >>>>>>> refs/heads/developer
+=======
+	#2_2 팀원 수정
+<<<<<<< HEAD
+	#2_1 팀장 작업 <br />
+=======
+	#2_2 팀원 수정
+>>>>>>> refs/heads/master_local
+
+
+	#2_2 팀원 수정
+<<<<<<< HEAD
+	#2_1 팀장 작업 <br />
+=======
+	#2_2 팀원 수정
+>>>>>>> refs/heads/master_local
+
+>>>>>>> refs/heads/master_local
 </body>
 </html>
